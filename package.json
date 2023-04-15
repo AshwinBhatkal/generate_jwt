@@ -1,0 +1,14 @@
+{
+  "name": "generate_jwt",
+  "version": "1.0.0",
+  "description": "Generate jwt token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Bhatkal",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
